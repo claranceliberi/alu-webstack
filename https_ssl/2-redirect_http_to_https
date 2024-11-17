@@ -47,5 +47,5 @@ frontend liberi-frontend-https
 
 backend liberi-backend
         balance roundrobin
-        server 6243-web-01 54.196.216.8:80 check
-        server 6243-web-02 98.80.15.59:80 check
+        server 6243-web-01 54.85.8.164:80 check
+        server 6243-web-02 54.90.175.71:80 check
